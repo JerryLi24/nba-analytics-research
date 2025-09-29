@@ -11,7 +11,7 @@ Our research applies advanced statistical modeling and machine learning techniqu
 ### Core Files
 - `README.md` - This documentation
 
-### Data (`data/`)
+### Data
 
 **Game Logs (`gamelogs/`)**
 - `nba_games_cleansed.csv` - Cleaned NBA game data
@@ -22,12 +22,7 @@ Our research applies advanced statistical modeling and machine learning techniqu
 **Standings (`standings/`)**  
 - `standing_2016.csv` to `standing_2024.csv` - Season standings by year
 
-**Analysis Tables (`tables/`)**
-- `pseudo_r_squared_cleansed_total.csv` - Complete pseudo R² results
-- `pseudo_r_squared_cleansed.csv` - Cleaned pseudo R² analysis  
-- Additional statistical output tables
-
-### Code (`code/`)
+### Code
 
 **Data Cleaning (`cleaning_code/`)**
 - `parse.ipynb` - Data parsing notebook
