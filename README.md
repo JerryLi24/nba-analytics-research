@@ -15,9 +15,7 @@ Our research applies advanced statistical modeling and machine learning techniqu
 
 **Game Logs (`gamelogs/`)**
 - `nba_games_cleansed.csv` - Cleaned NBA game data
-- `nba_games.csv` - Raw NBA game data  
-- `playin.csv` - Play-in tournament data
-- `playoffs_2016.csv` to `playoffs_2024.csv` - Playoff data by season
+- `nba_games.csv` - Raw NBA game data
 
 **Standings (`standings/`)**  
 - `standing_2016.csv` to `standing_2024.csv` - Season standings by year
